@@ -1,4 +1,4 @@
-package lucene.hw5;
+package lucene.query;
 
 import java.io.IOException;
 
